@@ -2,4 +2,4 @@
 
 Arquivo de exemplo para o treinamento de git Iteris!
 
-## SUbtítulo
+## Subtítulo
