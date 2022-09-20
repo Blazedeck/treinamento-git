@@ -5,7 +5,7 @@ teste merge
 teste de git push após alteração
 ## Subtítulo
 
-Colocar qualquer texto aqui.
+Colocar qualquer texto aqui. teste teste teste
 
 
 
